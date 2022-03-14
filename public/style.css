@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 
 :root {
-  --main-darklg: #1d2635;
-  --main-dark: #161d29;
-  --primary-color: #2f80ec;
-  --main-light: #eeeeee;
+  --main-darklg: #005eff;
+  --main-dark: #002463;
+  --primary-color: #01024b;
+  --main-light: #fafafa;
   font-family: "Poppins", sans-serif;
 }
 
@@ -87,14 +87,14 @@ video {
 }
 
 .background__red {
-  background-color: #f6484a;
+  background-color: #ff0004;
 }
 
 .main__right {
   display: flex;
   flex-direction: column;
   flex: 0.3;
-  background-color: #242f41;
+  background-color: #003a97;
 }
 
 .main__chat_window {
